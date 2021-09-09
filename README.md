@@ -11,7 +11,7 @@ Program Requirements
 
 Suggested Steps to get started
 ------------------------------
-1. Watch this videos: [Bouncing Ball Coding Train](https://www.youtube.com/watch?v=LO3Awjn_gyU)   
+1. Watch this video: [Bouncing Ball Coding Train](https://www.youtube.com/watch?v=LO3Awjn_gyU)   
 2. Start a new P5 project
 3. Customize your animation by adding additional elements
 4. When you are happy with your animation, choose *Share* and copy the present link into google classroom
