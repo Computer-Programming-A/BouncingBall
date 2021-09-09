@@ -3,6 +3,12 @@ Bouncing Ball
 
 In this assignment you will make an animation that includes ball or similar shape that appears to bounce.
 
+Program Requirements
+--------------------
++ A ball or other object that appears to move around the screen and bounce off the edges or other objects
++ Other elements besides the ball or other bounding object
++ Modify the background, title, headline and footer of your webpage
+
 Suggested Steps to get started
 ------------------------------
 1. Watch this videos: [Bouncing Ball Coding Train](https://www.youtube.com/watch?v=LO3Awjn_gyU)   
