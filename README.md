@@ -23,4 +23,9 @@ Your animation could have the ball change colors when it bounces (hint: color va
 
 Samples of student work
 ------------------------
-None yet!
+None yet!   
+
+
+
+
+*Note: this assignment was adapted from Tania Padilla's Creative Computing course*
