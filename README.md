@@ -6,7 +6,7 @@ In this assignment you will make an animation that includes a ball or some other
 Program Requirements
 --------------------
 + A ball or other shape that appears to move around the screen and bounce off the edges or other objects
-+ Other elements besides the ball, for example, other bounding objects rather than the edge of the screen
++ Other elements besides the ball, for example, other bounding objects rather than the edge of the screen or a background that shows the environment where the ball is bouncing
 + Modify the background, title, headline and footer of your webpage by modifying the html and css files of your webpage
 
 Suggested Steps to get started
