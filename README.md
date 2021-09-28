@@ -23,7 +23,38 @@ Your animation could have the ball change colors when it bounces (hint: color va
 
 Samples of student work
 ------------------------
-None yet!   
+[Evangeline](https://preview.p5js.org/evchien/present/qgJ-Vh9TR)   
+[Alyssa](https://preview.p5js.org/almagtoto-diaz/present/4wkRY1jaj)   
+[Kaitlyn](https://preview.p5js.org/kaluu/present/ZkYxSnvoN)   
+[Yeshi](https://preview.p5js.org/yesherpa/present/5sFopD2fA)   
+[Rio](https://preview.p5js.org/rihaile/present/gxDqxr8Xj)   
+[Brendan](https://preview.p5js.org/brkanaley/present/YEVqLBYdW)   
+[Michelle](https://preview.p5js.org/milam4/present/bhohtTEyA)   
+[Sandy](https://preview.p5js.org/satam2/present/jeMfbh5Hn)   
+[Isaac](https://preview.p5js.org/ischu/present/aCTr0YRU5)   
+[Xander](https://preview.p5js.org/xadelbosque/present/8azmZ8XRT)   
+[Linen](https://preview.p5js.org/lifeng/present/pngvkqcHJ)   
+[Patrick](https://preview.p5js.org/payao/present/mHSsS68vW)   
+[Kay](https://preview.p5js.org/kafriel-asay/present/GaC4UMVMs)   
+[Jasmine](https://preview.p5js.org/jaguan4/present/_f3hBMGWe)   
+[Aaron](https://preview.p5js.org/aahill1/present/y8610-ivQ)   
+[Tennyson](https://preview.p5js.org/Tennyson/present/b1DctfP2w)   
+[John](https://preview.p5js.org/joieng/present/Uj4ig8bun)   
+[Ally](https://preview.p5js.org/alzhao/present/oyhvisAz2)   
+[Bella](https://preview.p5js.org/bejayanti/present/4KmMzzzmL)   
+[Pansy](https://preview.p5js.org/pakuang/present/4t4XnhUm3)   
+[Jeffrey](https://preview.p5js.org/JeffreyLin/present/aKPgGCdg69)   
+[Justin](https://preview.p5js.org/julin2/present/kxNecH1-O)   
+[Andrei](https://preview.p5js.org/anliterato/present/q9saH4RPQ)   
+[McKayla](https://preview.p5js.org/mcma/present/RcwyC9WDul)   
+[Dylan](https://editor.p5js.org/dyvo/full/gqMxRf0BG)   
+[Noah](https://preview.p5js.org/BiZaark/present/Zqhj_w0ir)   
+[Miles](https://preview.p5js.org/mirehling/present/0w1qsp_LF)   
+[Jocelyn](https://preview.p5js.org/jocelynpang/present/wFT1vaZsL)   
+[Owen](https://preview.p5js.org/owsheetz/present/UDfu6HKHa)   
+[Hao](https://preview.p5js.org/hatang/present/FjcRzDNov)   
+
+
 
 
 
