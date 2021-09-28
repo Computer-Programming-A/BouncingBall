@@ -18,11 +18,12 @@ Suggested Steps to get started
 
 Extensions
 ----------
-Your animation could have the ball change colors when it bounces (hint: color variables). You could also change the rate at which the ball moves in the y direction to simulate gravity (Another hint: variables for the speed in the x & y directions).
+Your animation could have the ball change colors when it bounces (hint: color variables). You could also change the rate at which the ball moves in the y direction to simulate gravity (Another hint: variables for the speed in the x & y directions). Check the examples of student work below. Have fun and be creative, your bouncing ball program doesn't have to look or work like any other.
 
 
 Samples of student work
 ------------------------
+[Alejandro](https://preview.p5js.org/alaguilar5/present/o79DiHb6J)   
 [Evangeline](https://preview.p5js.org/evchien/present/qgJ-Vh9TR)   
 [Alyssa](https://preview.p5js.org/almagtoto-diaz/present/4wkRY1jaj)   
 [Kaitlyn](https://preview.p5js.org/kaluu/present/ZkYxSnvoN)   
@@ -33,12 +34,16 @@ Samples of student work
 [Sandy](https://preview.p5js.org/satam2/present/jeMfbh5Hn)   
 [Isaac](https://preview.p5js.org/ischu/present/aCTr0YRU5)   
 [Xander](https://preview.p5js.org/xadelbosque/present/8azmZ8XRT)   
+[Amy](https://preview.p5js.org/amhuang4/present/yJsBdtnsW)   
+[Sarah](https://preview.p5js.org/sahuang/present/ByhGcmv20)   
+[Tiffany](https://preview.p5js.org/ticaballero/present/dfU3Dz3HQ)   
 [Linen](https://preview.p5js.org/lifeng/present/pngvkqcHJ)   
 [Patrick](https://preview.p5js.org/payao/present/mHSsS68vW)   
 [Kay](https://preview.p5js.org/kafriel-asay/present/GaC4UMVMs)   
 [Jasmine](https://preview.p5js.org/jaguan4/present/_f3hBMGWe)   
 [Aaron](https://preview.p5js.org/aahill1/present/y8610-ivQ)   
 [Tennyson](https://preview.p5js.org/Tennyson/present/b1DctfP2w)   
+[Erck](https://preview.p5js.org/erchan8/present/kJZO4__5E)   
 [John](https://preview.p5js.org/joieng/present/Uj4ig8bun)   
 [Ally](https://preview.p5js.org/alzhao/present/oyhvisAz2)   
 [Bella](https://preview.p5js.org/bejayanti/present/4KmMzzzmL)   
@@ -53,10 +58,15 @@ Samples of student work
 [Jocelyn](https://preview.p5js.org/jocelynpang/present/wFT1vaZsL)   
 [Owen](https://preview.p5js.org/owsheetz/present/UDfu6HKHa)   
 [Hao](https://preview.p5js.org/hatang/present/FjcRzDNov)   
-
-
-
-
+[Margaux](https://preview.p5js.org/Mabarahonaventura/present/aWRQYO13S)   
+[Oliver](https://preview.p5js.org/Oliver312/present/kLQnF-11c)   
+[Breanna](https://preview.p5js.org/brlew1/present/BOkjj1gEM)   
+[Alice](https://preview.p5js.org/alliang/present/MzNtdZCCP)   
+[Susanna](https://preview.p5js.org/susannango/present/GrgiEfc1E)   
+[Alex](https://preview.p5js.org/alohlenschlager/present/LMHEjhp3i)   
+[Omara](https://preview.p5js.org/omrosenfeld/present/fy6V25W8L)   
+[Theo](https://preview.p5js.org/thruefli/present/_LtHmVfHD)   
+[Noah](https://preview.p5js.org/nospirn/present/gyVgn6po1)   
 
 
 *Note: this assignment was adapted from Tania Padilla's Creative Computing course*
