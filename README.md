@@ -49,6 +49,7 @@ Samples of student work
 [Bella](https://preview.p5js.org/bejayanti/present/4KmMzzzmL)   
 [Pansy](https://preview.p5js.org/pakuang/present/4t4XnhUm3)   
 [Jeffrey](https://preview.p5js.org/JeffreyLin/present/aKPgGCdg69)   
+[Grace](https://preview.p5js.org/grhuang/present/DyOJMtKQ2)   
 [Justin](https://preview.p5js.org/julin2/present/kxNecH1-O)   
 [Andrei](https://preview.p5js.org/anliterato/present/q9saH4RPQ)   
 [McKayla](https://preview.p5js.org/mcma/present/RcwyC9WDul)   
